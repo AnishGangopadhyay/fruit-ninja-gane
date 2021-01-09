@@ -1,1 +1,1 @@
-# fruit-ninja-game
+# fruit-ninja
