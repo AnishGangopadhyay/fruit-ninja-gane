@@ -1,1 +1,1 @@
-# fruit-ninja-gane
+# fruit-ninja-game
